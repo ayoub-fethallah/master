@@ -1,5 +1,5 @@
 # master
-ça c'est le repo master
+repo master
 
 
 ## Description du projet
